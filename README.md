@@ -1,2 +1,2 @@
 # data-representation-coursework
-ATU Data Representation module coursework
+ATU HDip Data Analytics, Data Representation module coursework
